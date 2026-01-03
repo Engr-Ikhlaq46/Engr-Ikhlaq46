@@ -1,7 +1,7 @@
 ![logo](https://github.com/engr-ikhlaq/engr-ikhlaq/blob/main/MY%20BANNER.png)
 
 # 💫 Hi 👋, I'm Engr. Ikhlaq Wahid
-**A passionate Data Scientist || Machine Learning Engineer || AI Researcher | Kaggle Grandmaster**
+**A passionate Data Scientist || Machine Learning Engineer || AI Researcher |**
 
 Email Me 👉 ✉️ **ikhlaqwahid2003@gmail.com** For Collaboration/Project or Anything Else. 😊
 
